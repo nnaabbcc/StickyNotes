@@ -1,0 +1,2 @@
+# StickyNotes
+Daily Notes
